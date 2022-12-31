@@ -1,0 +1,4 @@
+.containerRadio {
+  display: flex;
+  flex-direction: column;
+}
