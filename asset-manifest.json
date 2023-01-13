@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be6ce591.css",
+    "main.js": "/static/js/main.71cadfb1.js",
+    "static/media/yourBook.jpg": "/static/media/yourBook.5e0cc26fae9328382b22.jpg",
+    "static/media/chinese.jpg": "/static/media/chinese.b153b9e32d78930f8e53.jpg",
+    "static/media/c21.jpg": "/static/media/c21.873bc158e917fb867f6c.jpg",
+    "static/media/landau.jpg": "/static/media/landau.8705cf7dd4bfaf1aa9c8.jpg",
+    "index.html": "/index.html",
+    "main.be6ce591.css.map": "/static/css/main.be6ce591.css.map",
+    "main.71cadfb1.js.map": "/static/js/main.71cadfb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be6ce591.css",
+    "static/js/main.71cadfb1.js"
+  ]
+}
